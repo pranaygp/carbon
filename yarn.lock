@@ -4975,10 +4975,10 @@ normalize-path@^2.1.1:
   dependencies:
     remove-trailing-separator "^1.0.1"
 
-now@^13.0.0:
-  version "13.0.0"
-  resolved "https://registry.yarnpkg.com/now/-/now-13.0.0.tgz#094e36f95e711e77c345161e3cc533d9465b2f9f"
-  integrity sha512-d44hZ2Hmf7+rjk/eNLpRt5ZBkR0QOktwCH4e3LvCGVvGOw5Wltal9Nia5P4Rv4KqmPQ6La7bxq8sJyBjgdG3sQ==
+now@^13.0.2:
+  version "13.0.2"
+  resolved "https://registry.yarnpkg.com/now/-/now-13.0.2.tgz#479fb6cb8bf4ad7a994df2f93f7fb5db939fb340"
+  integrity sha512-icuaRyuApd1IqpFfhAoJfG30adOolz333MlSzDlLD35k/HdasDRXbVQQPxilOBxhiBCdgsdDN3p5R+/0pL1A0Q==
 
 npm-bundled@^1.0.1:
   version "1.0.5"

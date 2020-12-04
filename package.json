@@ -29,7 +29,7 @@
     "dropperx": "^1.0.1",
     "escape-goat": "^1.3.0",
     "graphql": "^14.1.1",
-    "highlight.js": "^9.13.1",
+    "highlight.js": "^10.4.1",
     "lodash.debounce": "^4.0.8",
     "lodash.omitby": "^4.6.0",
     "match-sorter": "^2.3.0",

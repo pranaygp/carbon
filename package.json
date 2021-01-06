@@ -19,7 +19,7 @@
     "now-build": "cross-env NODE_ENV=production yarn build && yarn export -o dist"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "codemirror": "^5.42.2",
     "codemirror-graphql": "^0.8.3",
     "codemirror-mode-elixir": "^1.1.2",

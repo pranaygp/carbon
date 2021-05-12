@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "codemirror": "^5.42.2",
+    "codemirror": "^5.58.2",
     "codemirror-graphql": "^0.8.3",
     "codemirror-mode-elixir": "^1.1.2",
     "cross-env": "^5.2.0",
